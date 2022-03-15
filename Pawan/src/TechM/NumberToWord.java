@@ -82,6 +82,11 @@ class NumberToWord
 	     System.out.println("Enter the Number:-");
 	     String str2=obj.next();
 	     numberToWords(str2.toCharArray());
+	     
+	     
+	     
+	     System.out.println("Program");
+	     System.out.println("Testing");
 	   }  
  }  
 
