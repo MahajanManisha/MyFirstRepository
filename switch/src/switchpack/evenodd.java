@@ -6,6 +6,8 @@ public class evenodd {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int no=21;
+		System.out.println(+no);
+		System.out.println("Even and odd numer");
 		switch(no%2)
 		{
 		case 0: 
