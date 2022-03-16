@@ -6,7 +6,7 @@ public class ArmstrongNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+System.out.println(".......");
 		Scanner obj=new Scanner(System.in);
 		System.out.println("Enter the 1st number");
 		int a=obj.nextInt();
